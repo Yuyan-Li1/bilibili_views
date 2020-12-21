@@ -1,4 +1,5 @@
 from bilibili_api import video
+
 # put BVs in BV.txt
 file = open('BV.txt', 'r')
 while True:
